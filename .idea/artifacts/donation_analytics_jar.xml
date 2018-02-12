@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="donation-analytics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/donation_analytics_jar</output-path>
+    <root id="archive" name="donation-analytics.jar">
+      <element id="module-output" name="donation-analytics" />
+    </root>
+  </artifact>
+</component>
