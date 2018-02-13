@@ -1,5 +1,7 @@
 # Donation Analytics
 
+Project description: https://github.com/InsightDataScience/donation-analytics
+
 The program reads from input file line by line, processes each line respectively and immediately write out to an output file when necessary.
 
 * Once become a repeat donor, always a repeat donor, no matter which year the donor contribute as long as the record appears after the record that make this donor a repeat donor.
